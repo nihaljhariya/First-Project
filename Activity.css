@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+}
+button{
+    background-color: black;
+    color:white;
+    border-radius: 50px;
+}
+button:hover{
+    background-color: white;
+    color:black;
+    border-radius: 50px;
+    box-shadow: 2px 2px 4px;
+}
+div{
+    margin-top:10px;
+    height: 200px;
+    width:600px; 
+    margin:auto;
+    border:2px solid black;
+    box-shadow: 2px 2px 4px;
+    /* background-color:burlywood ; */
+}
